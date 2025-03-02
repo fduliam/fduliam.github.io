@@ -6,16 +6,16 @@
 <div class="notice">
   <span class="float-icon">☁️</span>
   <div class="item">
-    <a href="https://www.example.com" target="_blank" title="访问示例网站">高中生学习资料</a>
+    <a href="https://fduliam.github.io/docs/%E9%AB%98%E4%B8%AD%E7%94%9F%E5%AD%A6%E4%B9%A0%E6%80%9D%E7%BB%B4/" target="_blank" title="高中生学习资料">高中生学习资料</a>
   </div>
   <div class="item">
     <a href="https://fduliam.github.io/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/1740916588350-%E4%BC%98%E8%B4%A8%E4%BF%A1%E6%81%AF%E6%BA%90/" target="_blank" title="计算机科学与技术">计算机学习资料</a>
   </div>
   <div class="item">
-    <a href="https://www.example.com" target="_blank" title="访问示例网站">心理学与社会学资料</a>
+    <a href="https://fduliam.github.io/docs/%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%AD%A6/" target="_blank" title="心理学与社会学">心理学与社会学资料</a>
   </div>
   <div class="item">
-    <a href="https://www.example.com" target="_blank" title="访问示例网站">考公考研求职创业资料</a>
+    <a href="https://fduliam.github.io/docs/%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E6%B1%82%E8%81%8C%E5%88%9B%E4%B8%9A/" target="_blank" title="考公求职创业资料">考公考研求职创业资料</a>
   </div>
   <div class="item">
     <a href="https://www.example.com" target="_blank" title="访问示例网站">(๑˃̵ᴗ˂̵)و*✧･ﾟ:* ✧･ﾟ</a>
