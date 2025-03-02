@@ -9,7 +9,7 @@
     <a href="https://www.example.com" target="_blank" title="访问示例网站">高中生学习资料</a>
   </div>
   <div class="item">
-    <a href="https://www.example.com" target="_blank" title="访问示例网站">计算机学习资料</a>
+    <a href="https://fduliam.github.io/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/1740916588350-%E4%BC%98%E8%B4%A8%E4%BF%A1%E6%81%AF%E6%BA%90/" target="_blank" title="计算机科学与技术">计算机学习资料</a>
   </div>
   <div class="item">
     <a href="https://www.example.com" target="_blank" title="访问示例网站">心理学与社会学资料</a>
@@ -21,40 +21,6 @@
     <a href="https://www.example.com" target="_blank" title="访问示例网站">(๑˃̵ᴗ˂̵)و*✧･ﾟ:* ✧･ﾟ</a>
   </div>
 </div>
-
-<style>
-.notice {
-  padding: 16px 24px;
-  background: #F5F7FA;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  border: 1px solid #E0E0E0;
-  margin: 20px 0;
-}
-
-.float-icon {
-  font-size: 28px;
-  margin-right: 15px;
-  animation: float 3s ease-in-out infinite;
-}
-
-.item {
-  display: flex; /* 使用flex布局 */
-  border-left: 2px solid #000; /* 左边框，2px宽度，黑色 */
-
-  align-items: center; /* 垂直居中对齐 */
-  gap: 10px; /* 子元素之间的间距 */
-  padding-right: 10px; /* 左边框后的内边距 */
-  padding-left: 10px; 
-}
-
-
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
-}
-</style>
 
 
 
@@ -101,3 +67,38 @@
 
 #### AI-数据科学-基础架构-计算机技术
 <img src="AI-数据科学-基础架构交流群.png" alt="AI-数据科学-基础架构交流群" width="30%">
+
+<style>
+.notice {
+  padding: 16px 24px;
+  background: #F5F7FA;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #E0E0E0;
+  margin: 20px 0;
+}
+
+.float-icon {
+  font-size: 28px;
+  margin-right: 15px;
+  animation: float 3s ease-in-out infinite;
+}
+
+.item {
+  display: flex; /* 使用flex布局 */
+  border-left: 2px solid #000; /* 左边框，2px宽度，黑色 */
+
+  align-items: center; /* 垂直居中对齐 */
+  gap: 10px; /* 子元素之间的间距 */
+  padding-right: 10px; /* 左边框后的内边距 */
+  padding-left: 10px; 
+}
+
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+</style>
+
