@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/zh-cn/</loc>
+    <loc>https://fduliam.github.io/docs/zh-cn/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/"
+      href="https://fduliam.github.io/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://example.org/zh-cn/"
+      href="https://fduliam.github.io/docs/zh-cn/"
     />
   </url>
 </urlset>
